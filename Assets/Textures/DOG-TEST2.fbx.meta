@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 1238f93ba20664a90ac3919a062258a2
+timeCreated: 1515420298
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dog
+    100002: //RootNode
+    100004: ikHandle1
+    100006: ikHandle2
+    100008: ikHandle3
+    100010: ikHandle4
+    100012: joint1
+    100014: joint10
+    100016: joint10 1
+    100018: joint11
+    100020: joint2
+    100022: joint3
+    100024: joint4
+    100026: joint5
+    100028: joint5 1
+    100030: joint6
+    100032: joint6 1
+    100034: joint7
+    100036: joint8
+    100038: joint9
+    100040: joint9 1
+    100042: Dog_ATTEMPT_2:Dog
+    100044: Dog_ATTEMPT_2:ikHandle1
+    100046: Dog_ATTEMPT_2:ikHandle2
+    100048: Dog_ATTEMPT_2:ikHandle3
+    100050: Dog_ATTEMPT_2:ikHandle4
+    100052: Dog_ATTEMPT_2:joint1
+    100054: Dog_ATTEMPT_2:joint10
+    100056: Dog_ATTEMPT_2:joint10 1
+    100058: Dog_ATTEMPT_2:joint11
+    100060: Dog_ATTEMPT_2:joint2
+    100062: Dog_ATTEMPT_2:joint3
+    100064: Dog_ATTEMPT_2:joint4
+    100066: Dog_ATTEMPT_2:joint5
+    100068: Dog_ATTEMPT_2:joint5 1
+    100070: Dog_ATTEMPT_2:joint6
+    100072: Dog_ATTEMPT_2:joint6 1
+    100074: Dog_ATTEMPT_2:joint7
+    100076: Dog_ATTEMPT_2:joint8
+    100078: Dog_ATTEMPT_2:joint9
+    100080: Dog_ATTEMPT_2:joint9 1
+    100082: Dog_ATTEMPT_2:nurbsCircle1
+    100084: Dog_ATTEMPT_2:nurbsCircle2
+    100086: Dog_ATTEMPT_2:nurbsCircle3
+    100088: Dog_ATTEMPT_2:nurbsCircle4
+    100090: Dog_ATTEMPT_2:nurbsCircle5
+    100092: Dog_ATTEMPT_2:nurbsCircle6
+    400000: Dog
+    400002: //RootNode
+    400004: ikHandle1
+    400006: ikHandle2
+    400008: ikHandle3
+    400010: ikHandle4
+    400012: joint1
+    400014: joint10
+    400016: joint10 1
+    400018: joint11
+    400020: joint2
+    400022: joint3
+    400024: joint4
+    400026: joint5
+    400028: joint5 1
+    400030: joint6
+    400032: joint6 1
+    400034: joint7
+    400036: joint8
+    400038: joint9
+    400040: joint9 1
+    400042: Dog_ATTEMPT_2:Dog
+    400044: Dog_ATTEMPT_2:ikHandle1
+    400046: Dog_ATTEMPT_2:ikHandle2
+    400048: Dog_ATTEMPT_2:ikHandle3
+    400050: Dog_ATTEMPT_2:ikHandle4
+    400052: Dog_ATTEMPT_2:joint1
+    400054: Dog_ATTEMPT_2:joint10
+    400056: Dog_ATTEMPT_2:joint10 1
+    400058: Dog_ATTEMPT_2:joint11
+    400060: Dog_ATTEMPT_2:joint2
+    400062: Dog_ATTEMPT_2:joint3
+    400064: Dog_ATTEMPT_2:joint4
+    400066: Dog_ATTEMPT_2:joint5
+    400068: Dog_ATTEMPT_2:joint5 1
+    400070: Dog_ATTEMPT_2:joint6
+    400072: Dog_ATTEMPT_2:joint6 1
+    400074: Dog_ATTEMPT_2:joint7
+    400076: Dog_ATTEMPT_2:joint8
+    400078: Dog_ATTEMPT_2:joint9
+    400080: Dog_ATTEMPT_2:joint9 1
+    400082: Dog_ATTEMPT_2:nurbsCircle1
+    400084: Dog_ATTEMPT_2:nurbsCircle2
+    400086: Dog_ATTEMPT_2:nurbsCircle3
+    400088: Dog_ATTEMPT_2:nurbsCircle4
+    400090: Dog_ATTEMPT_2:nurbsCircle5
+    400092: Dog_ATTEMPT_2:nurbsCircle6
+    4300000: Dog
+    4300002: Dog_ATTEMPT_2:Dog
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dog
+    13700002: Dog_ATTEMPT_2:Dog
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: ca52b19793aca469eb6fa393c59f056e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display
+    second: {fileID: 2100000, guid: bd9c76df30af74bee84d801c0d391fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog_ATTEMPT_2_Body
+    second: {fileID: 2100000, guid: a2bd941d3e4ec4b2cbeb1a7c53a7c54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog_ATTEMPT_2_Display
+    second: {fileID: 2100000, guid: bd9c76df30af74bee84d801c0d391fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog_ATTEMPT_2_Glow
+    second: {fileID: 2100000, guid: 663b98885c3604a70b577abdf641fc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dog_ATTEMPT_2_Neck
+    second: {fileID: 2100000, guid: aa4ed3f893c9c499a9d4a67332785395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glow
+    second: {fileID: 2100000, guid: 29e94f9db43dd49c3b29ba34c1d0fb38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neck
+    second: {fileID: 2100000, guid: 94a6a7d6e6dda4d598bbaecf44e3df16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 1e04786cd318a4c188a3972c22bc9664, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: f5a01b99a2c5640fda8b9478e2352066
+timeCreated: 1516411450
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 238_544 Walk L_0
+    21300002: 238_544 Walk L_1
+    21300004: 238_544 Walk L_2
+    21300006: 238_544 Walk L_3
+    21300008: 238_544 Walk L_4
+    21300010: 238_544 Walk L_5
+    21300012: 238_544 Walk L_6
+    21300014: 238_544 Walk L_7
+    21300016: 238_544 Walk L_8
+    21300018: 238_544 Walk L_9
+    21300020: 238_544 Walk L_10
+    21300022: 238_544 Walk L_11
+    21300024: 238_544 Walk L_12
+    21300026: 238_544 Walk L_13
+    21300028: 238_544 Walk L_14
+    21300030: 238_544 Walk L_15
+    21300032: 238_544 Walk L_16
+    21300034: 238_544 Walk L_17
+    21300036: 238_544 Walk L_18
+    21300038: 238_544 Walk L_19
+    21300040: 238_544 Walk L_20
+    21300042: 238_544 Walk L_21
+    21300044: 238_544 Walk L_22
+    21300046: 238_544 Walk L_23
+    21300048: 238_544 Walk L_24
+    21300050: 238_544 Walk L_25
+    21300052: 238_544 Walk L_26
+    21300054: 238_544 Walk L_27
+    21300056: 238_544 Walk L_28
+    21300058: 238_544 Walk L_29
+    21300060: 238_544 Walk L_30
+    21300062: 238_544 Walk L_31
+    21300064: 238_544 Walk L_32
+    21300066: 238_544 Walk L_33
+    21300068: 238_544 Walk L_34
+    21300070: 238_544 Walk L_35
+    21300072: 238_544 Walk L_36
+    21300074: 238_544 Walk L_37
+    21300076: 238_544 Walk L_38
+    21300078: 238_544 Walk L_39
+    21300080: 238_544 Walk L_40
+    21300082: 238_544 Walk L_41
+    21300084: 238_544 Walk L_42
+    21300086: 238_544 Walk L_43
+    21300088: 238_544 Walk L_44
+    21300090: 238_544 Walk L_45
+    21300092: 238_544 Walk L_46
+    21300094: 238_544 Walk L_47
+    21300096: 238_544 Walk L_48
+    21300098: 238_544 Walk L_49
+    21300100: 238_544 Walk L_50
+    21300102: 238_544 Walk L_51
+    21300104: 238_544 Walk L_52
+    21300106: 238_544 Walk L_53
+    21300108: 238_544 Walk L_54
+    21300110: 238_544 Walk L_55
+    21300112: 238_544 Walk L_56
+    21300114: 238_544 Walk L_57
+    21300116: 238_544 Walk L_58
+    21300118: 238_544 Walk L_59
+    21300120: 238_544 Walk L_60
+    21300122: 238_544 Walk L_61
+    21300124: 238_544 Walk L_62
+    21300126: 238_544 Walk L_63
+    21300128: 238_544 Walk L_64
+    21300130: 238_544 Walk L_65
+    21300132: 238_544 Walk L_66
+    21300134: 238_544 Walk L_67
+    21300136: 238_544 Walk L_68
+    21300138: 238_544 Walk L_69
+    21300140: 238_544 Walk L_70
+    21300142: 238_544 Walk L_71
+    21300144: 238_544 Walk L_72
+    21300146: 238_544 Walk L_73
+    21300148: 238_544 Walk L_74
+    21300150: 238_544 Walk L_75
+    21300152: 238_544 Walk L_76
+    21300154: 238_544 Walk L_77
+    21300156: 238_544 Walk L_78
+    21300158: 238_544 Walk L_79
+    21300160: 238_544 Walk L_80
+    21300162: 238_544 Walk L_81
+    21300164: 238_544 Walk L_82
+    21300166: 238_544 Walk L_83
+    21300168: 238_544 Walk L_84
+    21300170: 238_544 Walk L_85
+    21300172: 238_544 Walk L_86
+    21300174: 238_544 Walk L_87
+    21300176: 238_544 Walk L_88
+    21300178: 238_544 Walk L_89
+    21300180: 238_544 Walk L_90
+    21300182: 238_544 Walk L_91
+    21300184: 238_544 Walk L_92
+    21300186: 238_544 Walk L_93
+    21300188: 238_544 Walk L_94
+    21300190: 238_544 Walk L_95
+    21300192: 238_544 Walk L_96
+    21300194: 238_544 Walk L_97
+    21300196: 238_544 Walk L_98
+    21300198: 238_544 Walk L_99
+    21300200: 238_544 Walk L_100
+    21300202: 238_544 Walk L_101
+    21300204: 238_544 Walk L_102
+    21300206: 238_544 Walk L_103
+    21300208: 238_544 Walk L_104
+    21300210: 238_544 Walk L_105
+    21300212: 238_544 Walk L_106
+    21300214: 238_544 Walk L_107
+    21300216: 238_544 Walk L_108
+    21300218: 238_544 Walk L_109
+    21300220: 238_544 Walk L_110
+    21300222: 238_544 Walk L_111
+    21300224: 238_544 Walk L_112
+    21300226: 238_544 Walk L_113
+    21300228: 238_544 Walk L_114
+    21300230: 238_544 Walk L_115
+    21300232: 238_544 Walk L_116
+    21300234: 238_544 Walk L_117
+    21300236: 238_544 Walk L_118
+    21300238: 238_544 Walk L_119
+    21300240: 238_544 Walk L_120
+    21300242: 238_544 Walk L_121
+    21300244: 238_544 Walk L_122
+    21300246: 238_544 Walk L_123
+    21300248: 238_544 Walk L_124
+    21300250: 238_544 Walk L_125
+    21300252: 238_544 Walk L_126
+    21300254: 238_544 Walk L_127
+    21300256: 238_544 Walk L_128
+    21300258: 238_544 Walk L_129
+    21300260: 238_544 Walk L_130
+    21300262: 238_544 Walk L_131
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 238_544 Walk L_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_3
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_4
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_5
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_6
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_7
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_9
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_10
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_11
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 5440
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_15
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_16
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_17
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_18
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_19
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_20
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_21
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_22
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_23
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 4896
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_29
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_30
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_31
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_32
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_33
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_34
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_35
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 4352
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_38
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_39
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_40
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_41
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_42
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_43
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_44
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_45
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_46
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_47
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 3808
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_50
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_51
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_52
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_53
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_54
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_55
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_56
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_57
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_58
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_59
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 3264
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_62
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_63
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_64
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_65
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_66
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_67
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_68
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_69
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_70
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_71
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2720
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_74
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_75
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_76
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_77
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_78
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_79
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_80
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_81
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_82
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_83
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2176
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_85
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_86
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_87
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_88
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_89
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_90
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_91
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_92
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_93
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_94
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_95
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1632
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_98
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_99
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_100
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_101
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_102
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_103
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_104
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_105
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_106
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_107
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1088
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_109
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_110
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_111
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_112
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_113
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_114
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_115
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_116
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_117
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_118
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_119
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 544
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_121
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_122
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_123
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_124
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_125
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_126
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_127
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_128
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_129
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_130
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 238_544 Walk L_131
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 0
+        width: 238
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

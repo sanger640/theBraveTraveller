@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: d3dda895108764a40a6fbd78aa72773d
+timeCreated: 1513778407
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dog_Parts
+    100004: FL
+    100006: FR
+    100008: Front
+    100010: Head
+    100012: ikHandle1
+    100014: ikHandle5
+    100016: ikHandle6
+    100018: ikHandle7
+    100020: joint1
+    100022: joint2
+    100024: joint2 1
+    100026: joint2 2
+    100028: joint2 3
+    100030: joint3
+    100032: joint3 1
+    100034: joint3 2
+    100036: joint3 3
+    100038: joint4
+    100040: joint5
+    100042: joint6
+    100044: Middle
+    100046: Neck1
+    100048: nurbsCircle1
+    100050: nurbsCircle15
+    100052: nurbsCircle2
+    100054: nurbsCircle3
+    100056: nurbsCircle4
+    100058: nurbsCircle5
+    100060: nurbsCircle6
+    100062: pCube8
+    100064: pCylinder4
+    100066: pCylinder5
+    100068: pCylinder6
+    100070: pCylinder7
+    100072: pCylinder8
+    100074: polySurface2
+    100076: polySurface4
+    100078: polySurface5
+    100080: Rear
+    100082: RL
+    100084: RR
+    100086: transform3
+    100088: transform4
+    100090: transform5
+    400000: //RootNode
+    400002: Dog_Parts
+    400004: FL
+    400006: FR
+    400008: Front
+    400010: Head
+    400012: ikHandle1
+    400014: ikHandle5
+    400016: ikHandle6
+    400018: ikHandle7
+    400020: joint1
+    400022: joint2
+    400024: joint2 1
+    400026: joint2 2
+    400028: joint2 3
+    400030: joint3
+    400032: joint3 1
+    400034: joint3 2
+    400036: joint3 3
+    400038: joint4
+    400040: joint5
+    400042: joint6
+    400044: Middle
+    400046: Neck1
+    400048: nurbsCircle1
+    400050: nurbsCircle15
+    400052: nurbsCircle2
+    400054: nurbsCircle3
+    400056: nurbsCircle4
+    400058: nurbsCircle5
+    400060: nurbsCircle6
+    400062: pCube8
+    400064: pCylinder4
+    400066: pCylinder5
+    400068: pCylinder6
+    400070: pCylinder7
+    400072: pCylinder8
+    400074: polySurface2
+    400076: polySurface4
+    400078: polySurface5
+    400080: Rear
+    400082: RL
+    400084: RR
+    400086: transform3
+    400088: transform4
+    400090: transform5
+    2300000: polySurface5
+    3300000: polySurface5
+    4300000: polySurface5
+    4300002: pCylinder5
+    4300004: pCylinder6
+    4300006: pCylinder8
+    4300008: pCylinder7
+    4300010: pCube8
+    4300012: polySurface4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube8
+    13700002: pCylinder5
+    13700004: pCylinder6
+    13700006: pCylinder7
+    13700008: pCylinder8
+    13700010: polySurface4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: ca52b19793aca469eb6fa393c59f056e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display
+    second: {fileID: 2100000, guid: bd9c76df30af74bee84d801c0d391fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glow
+    second: {fileID: 2100000, guid: 29e94f9db43dd49c3b29ba34c1d0fb38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neck
+    second: {fileID: 2100000, guid: 94a6a7d6e6dda4d598bbaecf44e3df16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 1e04786cd318a4c188a3972c22bc9664, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
